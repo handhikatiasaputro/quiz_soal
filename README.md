@@ -1,2 +1,4 @@
 # Quiz Array #
-ini adalah semacam aplikasi quizz yang dibuat menggunakan html, css, dan php gesss
+
+![](ss.png)
+Ini adalah semacam aplikasi quizz yang dibuat menggunakan html, css, dan php gesss
